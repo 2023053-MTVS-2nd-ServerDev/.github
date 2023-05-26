@@ -15,7 +15,10 @@
 ### 김용승
 ```json
 {
-
+    "name": "김용승",
+    "age": 19,
+    "phone": "010-9288-0100",
+    "email": "burningman0915@gmail.com"
 }
 ```
 
