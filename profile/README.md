@@ -25,4 +25,14 @@
 ---
 ## 수업 내용
 > 수업 소스코드는 수업이 진행되면서 여기에 올려드리겠습니다.
+
+## Language
 ### [01_java foundation](https://github.com/2023053-MTVS-2nd-ServerDev/01_java-foundation)
+
+---
+## Server
+### [02_servlet](https://github.com/2023053-MTVS-2nd-ServerDev/02_servlet.git)
+
+---
+## Framework
+### [03_spring-core](https://github.com/2023053-MTVS-2nd-ServerDev/03_spring-core.git)
