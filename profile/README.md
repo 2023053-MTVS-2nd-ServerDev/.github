@@ -30,9 +30,9 @@
 ### [01_java foundation](https://github.com/2023053-MTVS-2nd-ServerDev/01_java-foundation)
 
 ---
-## Server
+## API
 ### [02_servlet](https://github.com/2023053-MTVS-2nd-ServerDev/02_servlet.git)
-
+### [06_jdbc](https://github.com/2023053-MTVS-2nd-ServerDev/06_jdbc.git)
 ---
 ## Framework
 ### [03_spring-core](https://github.com/2023053-MTVS-2nd-ServerDev/03_spring-core.git)
