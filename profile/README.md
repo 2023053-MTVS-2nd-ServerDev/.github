@@ -38,3 +38,4 @@
 ### [03_spring-core](https://github.com/2023053-MTVS-2nd-ServerDev/03_spring-core.git)
 ### [04_spring-boot](https://github.com/2023053-MTVS-2nd-ServerDev/04_spring-boot.git)
 ### [05_spring-mvc](https://github.com/2023053-MTVS-2nd-ServerDev/05_spring-mvc.git)
+### [07_mybatis](https://github.com/2023053-MTVS-2nd-ServerDev/07_mybatis.git)
