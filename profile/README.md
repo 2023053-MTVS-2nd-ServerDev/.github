@@ -28,6 +28,7 @@
 
 ## Language
 ### [01_java foundation](https://github.com/2023053-MTVS-2nd-ServerDev/01_java-foundation)
+### [10-01_javascript(core)](https://github.com/2023053-MTVS-2nd-ServerDev/10-01_javascript-core.git)
 
 ---
 ## API
