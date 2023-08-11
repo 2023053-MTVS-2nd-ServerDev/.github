@@ -46,3 +46,6 @@
 ### [07_mybatis](https://github.com/2023053-MTVS-2nd-ServerDev/07_mybatis.git)
 ### [08_mybatis-spring](https://github.com/2023053-MTVS-2nd-ServerDev/08_mybatis-spring.git)
 ### [09_jpa](https://github.com/2023053-MTVS-2nd-ServerDev/09_jpa.git)
+
+## Architecture
+### [12_rest-api](https://github.com/2023053-MTVS-2nd-ServerDev/12_rest-api.git)
