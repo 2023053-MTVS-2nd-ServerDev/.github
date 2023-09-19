@@ -53,3 +53,6 @@
 
 ## Container
 ### [14_Docker](https://github.com/2023053-MTVS-2nd-ServerDev/14_Docker.git)
+
+## OS
+### [15_ubuntu](https://github.com/2023053-MTVS-2nd-ServerDev/15_ubuntu.git)
